@@ -1,6 +1,6 @@
 # Practicing with lists
 
-guesses = ['Julia', 'David', 'Popa']
+guesses = ['Julia', 'David', 'Pablo', 'Carla']
 julia_message = f"Hi {guesses[0]}, you have been inveted to the next metting"
 pablo_message = f"Hi {guesses[1]}, you have been inveted to the next metting"
 carla_message = f"Hi {guesses[2]}, you have been inveted to the next metting"
